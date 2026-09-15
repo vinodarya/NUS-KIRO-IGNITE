@@ -1,3 +1,11 @@
+---
+name: "KIRO-IGNITE"
+displayName: "KIRO-IGNITE"
+description: "This power will transform your existing portal to be WebMCP ready. It will read your exsiting web pages and enable WebMCP via Declarative API."
+keywords: ["WebMCP","REST-to-MCP"]
+author: "Agent-Byte"
+---
+
 # Power: KIRO-IGNITE
 ## Purpose
 This power will transform your existing portal to be WebMCP ready. It will read your exsiting web pages and enable WebMCP via Declarative API.
