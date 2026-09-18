@@ -15,3 +15,12 @@ This power will transform your existing portal to be WebMCP ready. It will read 
 ## Examples
 Prompt: Convert this html to WebMCP ready using Declarative API
 Expected outcome: Forms will have Tools tag added
+
+Scenario Detection & Steering File Selection
+Enable WebMCP → enable-webmcp.md
+
+Load when user mentions:
+
+"WebMCP", "enable WebMCP", "webmcp"
+
+
