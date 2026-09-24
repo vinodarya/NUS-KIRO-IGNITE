@@ -44,8 +44,9 @@ Load when user mentions:
 
 ### KIRO Powers structure is as following:
 
-NUS-KIRO-IGNITE  \n
-| \n
+NUS-KIRO-IGNITE
+
+|  
  --- powers.md \n
  --- steering.md \n
     | \n
