@@ -47,10 +47,14 @@ Load when user mentions:
 NUS-KIRO-IGNITE
 
 |  
- --- powers.md \n
- --- steering.md \n
-    | \n
-     - enable-webmcp.md \n
+ --- powers.md  
+ 
+ --- steering.md  
+ 
+    |  
+    
+     - enable-webmcp.md  
+     
 
 NUS-KIRO-IGNITE contains one steering file "enable-webmcp.md" which performs following operation:
 
