@@ -1,7 +1,7 @@
 # NUS-KIRO-IGNITE
 Solution for SMEs to transform their existing Website to be AI Agent ready without much efforts
 
-##Problem Statemement
+##Problem Statemement##
 The web has been built primarily for human interaction, while the next generation of applications will increasingly be accessed by AI agents. Today, agents often have to scrape the DOM, interpret screenshots, and simulate clicks and form inputs—making interaction fragile, slow, and highly dependent on page structure.
 
 With WebMCP, websites can expose structured, machine-readable tools and page states that AI agents can understand and interact with directly. This inspired us to ask: How can we make the billions of existing websites ready for this agentic web without forcing developers to rebuild them?
