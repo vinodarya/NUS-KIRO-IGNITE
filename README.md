@@ -44,12 +44,12 @@ Load when user mentions:
 
 ### KIRO Powers structure is as following:
 
-NUS-KIRO-IGNITE
-|
- --- powers.md
- --- steering.md
-    |
-     - enable-webmcp.md
+NUS-KIRO-IGNITE  \n
+| \n
+ --- powers.md \n
+ --- steering.md \n
+    | \n
+     - enable-webmcp.md \n
 
 NUS-KIRO-IGNITE contains one steering file "enable-webmcp.md" which performs following operation:
 
