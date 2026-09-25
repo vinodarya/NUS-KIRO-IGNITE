@@ -48,8 +48,8 @@ NUS-KIRO-IGNITE
 |  
 |--- powers.md   
 |--- steering.md  
-&mbsp;|  
-&mbsp;|- enable-webmcp.md  
+&emsp;|  
+&emsp;|- enable-webmcp.md  
      
 
 NUS-KIRO-IGNITE contains one steering file "enable-webmcp.md" which performs following operation:
